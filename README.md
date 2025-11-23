@@ -6,3 +6,4 @@ Canvis fet per Óscar Benítez al repositori de'n Xavi
 
 
 Hacer cambios en repo del compañero | Eric Perez
+He afegit una línia nova.
